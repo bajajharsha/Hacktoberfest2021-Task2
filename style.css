@@ -1,8 +1,22 @@
+body{
+    background-color: pink;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+p.name{
+    color: blue;
+}
+p.country{
+    text-decoration: italic;
+    color: orange;
+}
+img{
+    margin; auto;
+    width: 300px;
 }
